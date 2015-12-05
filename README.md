@@ -1,4 +1,4 @@
-# advent of code
+# advent of code !
 
 Advent of Code challenge!
 
